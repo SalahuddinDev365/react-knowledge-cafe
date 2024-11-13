@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/L87JXyX/ai-generated-8602502-1280.jpg",
+        "title": "The Whispering Shadows and the secret mystery revealed in time",
+        "author": "Alice Thompson",
+        "author_image": "https://i.ibb.co.com/Sr1WwPV/498852.png",
+        "posted_date": "2024-10-01",
+        "reading_time": 15,
+        "hashtag": ["#Mystery", "#Thriller"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/W2FJPXq/ai-generated-8684971-1280.jpg",
+        "title": "Journey Through Time and the secret mystery revealed in time",
+        "author": "James Carter",
+        "author_image": "https://i.ibb.co.com/GpFNdKC/final-1.png",
+        "posted_date": "2024-10-05",
+        "reading_time": 20,
+        "hashtag": ["#SciFi", "#Futuristic"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/fqTyM4P/software-developer-6521720-1280.jpg",
+        "title": "The Art of Cooking and the secret mystery revealed in time",
+        "author": "Sophia Martinez",
+        "author_image": "https://i.ibb.co.com/4FB77Bx/Tyson-Andrus.png",
+        "posted_date": "2024-10-10",
+        "reading_time": 10,
+        "hashtag": ["#Cooking", "#Recipes"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/QNj5zrz/wormhole-739872-1280.png",
+        "title": "Whispers of the Ocean and the secret mystery revealed in time",
+        "author": "Liam Johnson",
+        "author_image": "https://i.ibb.co.com/FqZ07cz/image-asset.png",
+        "posted_date": "2024-10-15",
+        "reading_time": 25,
+        "hashtag": ["#Nature", "#Adventure"]
+    }
+]
